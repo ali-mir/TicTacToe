@@ -66,7 +66,8 @@ public class Game {
 	}
 	
 	public void checkForGameOver() {
-	
+		//Need to fix check for game over. 
+		//ideas : keep a 2d logical array of pieces and run check 
 	}
 	
 	
